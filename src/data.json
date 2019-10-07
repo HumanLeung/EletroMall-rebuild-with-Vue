@@ -1,0 +1,145 @@
+{
+    "featured": [
+        {
+            "name": "Tablet Thin EliteBook Revolve 810 G6",
+            "rating": "4.5",
+            "classified": "Smart Phones $ Tablets",
+            "type": "Smartphones",
+            "stock": 69,
+            "price": 1300,
+            "img": "GamePad-300x300.jpg",
+            "featureds": [
+                "4.7 inch 720p Screen",
+                "Android 6.0 OS",
+                "2.4 GHz Quad Core™ Processor",
+                "23 MP front Camera"
+            ]
+        },
+        {
+            "name": "Tablet Thin EliteBook Revolve 810 G6",
+            "rating": "0",
+            "classified": "Smart Phones $ Tablets",
+            "type": "Smartphones",
+            "stock": 69,
+            "price": 780,
+            "img":"GameStation-300x300.jpg",
+            "featureds": [
+                "4.7 inch 720p Screen",
+                "Android 6.0 OS",
+                "2.4 GHz Quad Core™ Processor",
+                "23 MP front Camera"
+            ]
+        },
+        {
+            "name": "Tablet Thin EliteBook Revolve 810 G6",
+            "rating": "0",
+            "classified": "Smart Phones $ Tablets",
+            "type": "Smartphones",
+            "stock": 69,
+            "price": 1100,
+            "img":"GoldPhone-300x300.jpg",
+            "featureds": [
+                "4.7 inch 720p Screen",
+                "Android 6.0 OS",
+                "2.4 GHz Quad Core™ Processor",
+                "23 MP front Camera"
+            ]
+        }
+    ],
+    "top-products": [
+        {
+            "name": "Game Console Controller + USB 3.0 Cable",
+            "rating": "0",
+            "classified": "Video Games $ Consoles",
+            "type": "Game Consoles",
+            "stock": 69,
+            "price": 79,
+            "img":"GoldPhone-300x300.jpg",
+            "featureds": [
+                "4.7 inch 720p Screen",
+                "Android 6.0 OS",
+                "2.4 GHz Quad Core™ Processor",
+                "23 MP front Camera"
+            ]
+        },
+        {
+            "name": "Game Console Controller + USB 3.0 Cable",
+            "rating": "0",
+            "classified": "Video Games $ Consoles",
+            "type": "Game Consoles",
+            "stock": 69,
+            "price": 79,
+            "img":"Smartphone6-300x300.jpg",
+            "featureds": [
+                "4.7 inch 720p Screen",
+                "Android 6.0 OS",
+                "2.4 GHz Quad Core™ Processor",
+                "23 MP front Camera"
+            ]
+        },
+        {
+            "name": "Game Console Controller + USB 3.0 Cable",
+            "rating": "0",
+            "classified": "Video Games $ Consoles",
+            "type": "Game Consoles",
+            "stock": 69,
+            "price": 79,
+            "img":"Smartphone2-300x300.jpg",
+            "featureds": [
+                "4.7 inch 720p Screen",
+                "Android 6.0 OS",
+                "2.4 GHz Quad Core™ Processor",
+                "23 MP front Camera"
+            ]
+        }
+
+    ],
+    "onsale": [
+        {
+            "name": "Game Console Controller + USB 3.0 Cable",
+            "rating": "0",
+            "classified": "Video Games $ Consoles",
+            "type": "Game Consoles",
+            "stock": 69,
+            "price": 79,
+            "img":"Ultrabooks-300x300.jpg",
+            "featureds": [
+                "4.7 inch 720p Screen",
+                "Android 6.0 OS",
+                "2.4 GHz Quad Core™ Processor",
+                "23 MP front Camera"
+            ]
+        },
+        {
+            "name": "Game Console Controller + USB 3.0 Cable",
+            "rating": "0",
+            "classified": "Video Games $ Consoles",
+            "type": "Game Consoles",
+            "stock": 69,
+            "price": 79,
+            "img":"WirelessSound-300x300.jpg",
+            "featureds": [
+                "4.7 inch 720p Screen",
+                "Android 6.0 OS",
+                "2.4 GHz Quad Core™ Processor",
+                "23 MP front Camera"
+            ]
+        },
+        {
+            "name": "Game Console Controller + USB 3.0 Cable",
+            "rating": "0",
+            "classified": "Video Games $ Consoles",
+            "type": "Game Consoles",
+            "stock": 69,
+            "price": 79,
+            "img":"Smartphone2-300x300.jpg",
+            "featureds": [
+                "4.7 inch 720p Screen",
+                "Android 6.0 OS",
+                "2.4 GHz Quad Core™ Processor",
+                "23 MP front Camera"
+            ]
+        }
+    ]
+
+}
