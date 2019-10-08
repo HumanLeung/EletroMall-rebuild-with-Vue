@@ -28,16 +28,16 @@ npm run e2e
 npm test
 <img src="./static/1.png"/>
 
-![1](G:\vuemall2\static\1.PNG)
+![1](https://github.com/2691642766/EletroMall-rebuild-with-Vue/blob/master/static/m.PNG)
 
 ```
 
 ![2](https://github.com/2691642766/EletroMall-rebuild-with-Vue/blob/master/static/1.PNG)
 
-![3](G:\vuemall2\static\3.PNG)
+![3](https://github.com/2691642766/EletroMall-rebuild-with-Vue/blob/master/static/2.PNG)
 
-![4](G:\vuemall2\static\4.PNG)
+![4](https://github.com/2691642766/EletroMall-rebuild-with-Vue/blob/master/static/3.PNG)
 
-![m](G:\vuemall2\static\m.PNG)
+![m](https://github.com/2691642766/EletroMall-rebuild-with-Vue/blob/master/static/4.PNG)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
