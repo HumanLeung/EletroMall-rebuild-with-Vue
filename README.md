@@ -1,8 +1,11 @@
-# vuemall2
+# vuemall2 rebuild with vue $ vue-cli boottsrap 
 
 > A Vue.js project
 
 ## Build Setup
+
+## if you are in China please make sure you are able to bypass the internet (VPN) to get the data
+##because of I using firebase as the backend server to save my data
 
 ``` bash
 A responsive website 
