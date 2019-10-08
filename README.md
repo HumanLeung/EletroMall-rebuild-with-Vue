@@ -32,7 +32,7 @@ npm test
 
 ```
 
-![2](G:\vuemall2\static\2.PNG)
+![2](https://github.com/2691642766/EletroMall-rebuild-with-Vue/blob/master/static/1.PNG)
 
 ![3](G:\vuemall2\static\3.PNG)
 
